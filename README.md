@@ -2,10 +2,10 @@
 
 Design the battery pack required 
 
- cell configuration
+#1) Cell configuration
 
- mass
+#2) Mass
 
- W-hr 
+#3) W-hr 
 
    during eclipse.
