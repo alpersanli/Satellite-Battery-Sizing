@@ -1,11 +1,11 @@
 # Satellite-Battery-Sizing
 
-# Design the battery pack required 
+Design the battery pack required 
 
-# cell configuration
+ cell configuration
 
-# mass
+ mass
 
-# W-hr 
+ W-hr 
 
-#   during eclipse.
+   during eclipse.
