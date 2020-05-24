@@ -10,7 +10,7 @@ Design the battery pack required
 
    during eclipse.
 
-1) Nickel-Cadmium (NiCd) :
+# 1) Nickel-Cadmium (NiCd) :
 
 DOD = 30%
 
@@ -22,7 +22,7 @@ Capacity per cell = 1.25 Amp-hr
 
 
 
-2) Lithium-Ion (Li-Ion) :
+# 2) Lithium-Ion (Li-Ion) :
 
 DOD = 50%
 
