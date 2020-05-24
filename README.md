@@ -9,3 +9,17 @@ Design the battery pack required
 3) W-hr 
 
    during eclipse.
+
+#1) Nickel-Cadmium (NiCd) :
+# DOD = 30%
+# Energy yield/density = 30 W-hr/kg
+# operating cell voltage = 1.2 to 1.4 V
+# capacity per cell = 1.25 Amp-hr
+
+
+
+#2) Lithium-Ion (Li-Ion) :
+# DOD = 50%
+# Energy yield/density = 80 W-hr/kg
+# operating cell voltage = 3.6 to 3.9 V
+# capacity per cell = 2.0 Amp-hr
