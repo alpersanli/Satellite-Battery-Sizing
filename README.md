@@ -1,6 +1,6 @@
 # Satellite-Battery-Sizing
 
-#Design the battery pack required 
+# Design the battery pack required 
 
 # cell configuration
 
