@@ -32,7 +32,7 @@ Cpc2 = 2.0
 while True:
 
 
-    print("\n\n-----Type of batteries-----\n1) Nickel-Cadmium (NiCd)\n2) Lithium-Ion (Li-Ion)")
+    print("\n\n-----Type of batteries-----\n[1] Nickel-Cadmium (NiCd)\n[2] Lithium-Ion (Li-Ion)\n[3] Quit")
     x = float(input("Choose type of battery = "))
 
 
@@ -154,6 +154,8 @@ while True:
             #Mass Li-Ion battery
             Kg2 = Cr222 / Ed2
             print("Mass Li-Ion battery = {} [kg]".format(Kg2))
-
+    elif x == 3 :
+        print("Quit...")
+        quit()
     else :
-        print("Please. Choose 1 or 2.")
+        print("Please. Choose 1, 2 or 3.")
