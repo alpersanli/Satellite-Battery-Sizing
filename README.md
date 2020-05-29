@@ -1,6 +1,7 @@
 # Satellite-Battery-Sizing
 
 Design the battery pack required 
+Please use bs2.py
 
 1) Cell configuration
 
