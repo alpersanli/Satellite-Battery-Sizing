@@ -31,3 +31,14 @@ Energy yield/density = 80 W-hr/kg
 Operating cell voltage = 3.6 to 3.9 V
 
 Capacity per cell = 2.0 Amp-hr
+
+
+## 3) Lithiated Nickel Cobalt Aluminum Oxide (NCA) :
+
+DOD = 40%
+
+Energy yield/density = 153 W-hr/kg
+
+Operating cell voltage = 3.0 to 4.1 V
+
+Capacity per cell = 43.0 Amp-hr
